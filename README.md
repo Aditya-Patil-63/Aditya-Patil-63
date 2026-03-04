@@ -1,11 +1,9 @@
 <!-- Animated Header -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Aditya+Patil;B.Tech+Information+Technology+Student;Backend+Developer+%7C+Data+Analytics+Enthusiast;Building+Scalable+Software+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Aditya+Patil;B.Tech+Information+Technology+Student;Backend+Developer+|+Data+Analytics+Enthusiast;Building+Scalable+Software+Solutions" />
 </p>
 
 ---
-
-<h1 align="center">👨‍💻 Aditya Patil</h1>
 
 <p align="center">
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
@@ -145,15 +143,7 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aditya-Patil-63&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Patil-63&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Aditya-Patil-63&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Aditya-Patil-63&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -192,9 +182,7 @@
 # 👀 Profile Visitors
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Aditya-Patil-63&label=Profile%20Views&color=0e75b6&style=flat"/>
-
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Aditya-Patil-63.Aditya-Patil-63"/>
 </p>
 
 ---
