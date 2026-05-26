@@ -210,6 +210,7 @@ A multi-page interactive HR analytics dashboard providing actionable workforce i
 
 | 📜 Certification | Issuer | Year |
 |---|---|---|
+| HackerRank Orchestrate May 2026 – AI Agent Development Challenge | HackerRank | May 2026 |
 | Alpha: DSA with Java | Apna College | June 2025 |
 | Web Development Workshop | Techfest, IIT Bombay | Dec 2025 |
 | Yugantar 2.0 Hackathon | SVKM's NMIMS | May 2025 |
