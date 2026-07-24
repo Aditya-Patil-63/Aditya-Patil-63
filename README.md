@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Aditya+Patil;B.Tech+Information+Technology+%7C+NMIMS+2027;Backend+Developer+%7C+Data+Analytics+Enthusiast;Building+Scalable+%26+Impactful+Software+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Aditya+Patil;B.Tech+Information+Technology+%7C+NMIMS+2027;Software+Developer+%7C+Data+Analytics+Enthusiast;Building+Scalable+%26+Impactful+Software+Solutions" />
 
 <br/>
 
@@ -24,15 +24,15 @@
 Name     : Aditya Patil
 Degree   : B.Tech Information Technology — SVKM NMIMS Shirpur (2023–2027)
 Location : Jalgaon, Maharashtra, India
-Focus    : Backend Development | Android Development | Data Analytics
+Focus    : Software Development | Data Analytics
 Status   : Open to Internships & Collaborations
 ```
 
-- 🚀 Passionate about building **scalable backend systems** and **data-driven applications**
+- 🚀 Passionate about building **scalable software solutions** and **data-driven applications**.
 - 🏆 **29th Global Rank** — SAS Curiosity Cup 2025 (Team "Data Defenders", 112 teams)
 - 👥 **Placement Committee Member** — NMIMS IT Department
 - 🌱 Currently deep-diving into **DSA**, **System Design**, and **Cloud Deployment**
-- 🤝 Open to collaborating on **backend**, **Android**, and **analytics** projects
+- 🤝 Open to collaborating on **Software Development**, **Android**, and **analytics** projects
 
 ---
 
@@ -208,12 +208,18 @@ A multi-page interactive HR analytics dashboard providing actionable workforce i
 | 🥇 SAS Curiosity Cup 2025 | **29th Global Rank** — Team "Data Defenders" among 112 global teams |
 | 👔 Placement Committee | Member — NMIMS IT Department |
 
-| 📜 Certification | Issuer | Year |
-|---|---|---|
-| HackerRank Orchestrate May 2026 – AI Agent Development Challenge | HackerRank | May 2026 |
-| Alpha: DSA with Java | Apna College | June 2025 |
-| Web Development Workshop | Techfest, IIT Bombay | Dec 2025 |
-| Yugantar 2.0 Hackathon | SVKM's NMIMS | May 2025 |
+# 📜 Certifications
+
+The following certifications demonstrate my continuous learning in software development, cloud computing, analytics, machine learning, and problem-solving.
+
+| 📜 Certification | Issuer | Issue Date |
+|------------------|--------|------------|
+| 🏆 HackerRank Orchestrate May 2026 – AI Agent Development Challenge | HackerRank | May 2026 |
+| ☕ Alpha: Data Structures & Algorithms with Java | Apna College | June 2025 |
+| 🌐 Web Development Workshop | Techfest, IIT Bombay | December 2025 |
+| 💡 Yugantar 2.0 Inter Institute Hackathon | SVKM's NMIMS | May 2025 |
+| 📊 Google Analytics Certification (2026) | Google | July 2026 |
+| ☁️ Journey to Cloud: Transforming Your Culture | IBM SkillsBuild | July 2026 |
 
 ---
 
