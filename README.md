@@ -146,7 +146,7 @@ A final-year AI-powered mobile application that analyzes medical reports and pre
 | 📄 Report & Prescription Extraction | Digital PDF, scanned/printed, and handwritten prescription parsing via pdfplumber, EasyOCR/Tesseract & TrOCR |
 | 🧪 Reference-Range Classification | Deterministic Low / Normal / High / Critical analysis across 10 audited core laboratory analytes |
 | 🌲 ML Risk Prediction | Scikit-learn/XGBoost models for Diabetes, Heart Disease & Chronic Kidney Disease risk, validated with 5-fold stratified CV |
-| 🤖 Generative AI Explanations | Claude API-powered, non-diagnostic, plain-language report summaries |
+| 🤖 Generative AI Explanations | Gemini API-powered, non-diagnostic, plain-language report summaries |
 | 🌐 Multilingual Output | English, Hindi, Marathi & Gujarati translation preserving clinical and numerical invariance |
 | 📥 Health Summaries | Downloadable PDF summaries with full report/history storage |
 
