@@ -63,6 +63,7 @@ Status   : Open to Software Engineering Opportunities & Collaborations
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
@@ -85,6 +86,7 @@ Status   : Open to Software Engineering Opportunities & Collaborations
 <br/>
 
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Google ML Kit](https://img.shields.io/badge/Google%20ML%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -99,6 +101,7 @@ Status   : Open to Software Engineering Opportunities & Collaborations
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase Firestore](https://img.shields.io/badge/Firebase%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </details>
 
@@ -127,6 +130,27 @@ Status   : Open to Software Engineering Opportunities & Collaborations
 ---
 
 ## 🚀 Featured Projects
+
+### 🩺 MedIntel AI — Intelligent Medical Report Analyzer
+> *Flutter • FastAPI • Python • pdfplumber • EasyOCR/TrOCR • Scikit-learn/XGBoost • Claude API* &nbsp;|&nbsp; 2026
+
+![Flutter](https://img.shields.io/badge/Mobile-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Claude API](https://img.shields.io/badge/GenAI-Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
+
+A final-year AI-powered mobile application that analyzes medical reports and prescriptions — including handwritten ones — extracting test values, classifying them against medical reference ranges, predicting disease risk using machine learning, and delivering simple multilingual explanations powered by Generative AI.
+
+| Feature | Details |
+|---|---|
+| 📄 Report & Prescription Extraction | Digital PDF, scanned/printed, and handwritten prescription parsing via pdfplumber, EasyOCR/Tesseract & TrOCR |
+| 🧪 Reference-Range Classification | Deterministic Low / Normal / High / Critical analysis across 10 audited core laboratory analytes |
+| 🌲 ML Risk Prediction | Scikit-learn/XGBoost models for Diabetes, Heart Disease & Chronic Kidney Disease risk, validated with 5-fold stratified CV |
+| 🤖 Generative AI Explanations | Claude API-powered, non-diagnostic, plain-language report summaries |
+| 🌐 Multilingual Output | English, Hindi, Marathi & Gujarati translation preserving clinical and numerical invariance |
+| 📥 Health Summaries | Downloadable PDF summaries with full report/history storage |
+
+---
 
 ### 📱 Hostel Pass Management System
 > *Java • XML • Firebase Firestore • FCM • ZXing • Android SDK* &nbsp;|&nbsp; 2025
@@ -217,23 +241,6 @@ A multi-page interactive HR analytics dashboard providing actionable workforce i
 
 ---
 
-### ✈️ Flight Booking System
-> *Java • Core OOP & Data Structures*
-
-![Java](https://img.shields.io/badge/Language-Java-ED8B00?style=flat-square&logo=openjdk)
-![OOP](https://img.shields.io/badge/Paradigm-OOP-blueviolet?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
-
-A console-based flight booking application built with core Java and OOP principles.
-
-| Feature | Details |
-|---|---|
-| 🎟️ Booking & Cancellation | End-to-end ticket reservation workflow |
-| 🔐 Role-Based Access | Separate flows for Admin and Passenger management |
-| 🏗️ Modular Architecture | Clean OOP design with strict separation of concerns |
-
----
-
 ## 💼 Work Experience
 
 <table>
@@ -275,6 +282,7 @@ The following certifications demonstrate my continuous learning in software deve
 | 🏆 **HackerRank Orchestrate May 2026 – AI Agent Challenge** | HackerRank | May 2026 | [View PDF](https://github.com/Aditya-Patil-63/Aditya-Patil-63/blob/main/HackerRank%20Orchestrate%20Certificate.pdf) |
 | ☁️ **Journey to Cloud: Transforming Your Culture** | IBM SkillsBuild | July 2026 | [View PDF](https://github.com/Aditya-Patil-63/Aditya-Patil-63/blob/main/IBM%20SkillsBuild_Certificate_Cloud.pdf) |
 | 📊 **Google Analytics Certification** | Google | July 2026 | [View PDF](https://github.com/Aditya-Patil-63/Aditya-Patil-63/blob/main/Google%20Analytics%20Certification.pdf) |
+| 🎨 **Adobe University Hackathon – Certificate of Participation** | Adobe (via Unstop) | August 2026 | [View PDF](https://github.com/Aditya-Patil-63/Aditya-Patil-63/blob/main/Adobe%20Hackathon%20Certificate.pdf) |
 | 🌐 **Web Development Workshop** | Techfest, IIT Bombay | December 2024 | [View PDF](https://github.com/Aditya-Patil-63/Aditya-Patil-63/blob/main/IIT_Bombay_Certificate_Web_Workshop.pdf) |
 
 ---
@@ -315,12 +323,12 @@ The following certifications demonstrate my continuous learning in software deve
 <div align="center">
 
 ### 👀 Profile Views
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Aditya-Patil-63.Aditya-Patil-63"/>
-
-<br/><br/>
-
-> *"I enjoy solving complex algorithmic problems and building scalable software systems that solve real-world challenges."*
-
-**Let's connect and build something amazing together 🚀**
-
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Aditya-Patil-63.Aditya-Patil-63"/> 
+ 
+<br/><br/> 
+ 
+> *"I enjoy solving complex algorithmic problems and building scalable software systems that solve real-world challenges."* 
+ 
+**Let's connect and build something amazing together 🚀** 
+ 
 </div>
