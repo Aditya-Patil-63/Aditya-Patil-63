@@ -14,11 +14,11 @@ jobs:
         with:
           github_user_name: Aditya-Patil-63
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#00ff00&color_dots=#000000,#000000,#222222,#00ff00,#00ff00
+            dist/github-contribution-grid-snake.svg?color_snake=%2300C2FF&color_dots=%23161B22,%230B2942,%230B5EA8,%23007ACC,%2300C2FF&color_background=%230D1117
+
       - uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output
           build_dir: dist
+          target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
